@@ -9,5 +9,5 @@ I am Joaquin Badillo and I'm planning on becoming a full time software engineer.
 - 🤓 I'm passionate about Mathematics, CS and Technology.
 - 😄 Pronouns: He/Him
 
-![Joaquin Badillo github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![JoaquinBadillo github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
 
