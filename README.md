@@ -53,3 +53,6 @@ I am really passionate about technology, software, data and mathematics, and I a
 
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![raspberry pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+## Programming Language Stats
+![GitHub Trends](https://api.githubtrends.io/user/svg/JoaquinBadillo/langs?time_range=all_time&theme=dark)
