@@ -9,16 +9,16 @@ I am really passionate about technology, software, data and mathematics, and I a
 - 😄 Pronouns: He/Him
 
 ## Tech
-![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=007EC6)
-![C++](https://img.shields.io/badge/C%2B%2B-323330?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=9B4F96)
-![Java](https://img.shields.io/badge/OpenJDK-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Go](https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Elixir](https://img.shields.io/badge/Elixir-323330?style=for-the-badge&logo=elixir&logoColor=4B275F)
-![Dart](https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=2CB7F6)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007EC6?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2FOpenJDK-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9D4F96?style=for-the-badge&logo=csharp&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2CB7F6?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ![Express js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -33,7 +33,6 @@ I am really passionate about technology, software, data and mathematics, and I a
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-D86613?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,7 +54,7 @@ I am really passionate about technology, software, data and mathematics, and I a
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=D70751)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
