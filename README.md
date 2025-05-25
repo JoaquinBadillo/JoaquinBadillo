@@ -38,7 +38,9 @@ I am really passionate about technology, software, data and mathematics, and I a
 
 
 <section id="deployments">
-  
+
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-0E9748?style=for-the-badge&logo=nginx&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
