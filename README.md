@@ -103,6 +103,3 @@ I am really passionate about technology, software, data and mathematics, and I a
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 </section>
-
-## Programming Language Stats
-![GitHub Trends](https://api.githubtrends.io/user/svg/JoaquinBadillo/langs?time_range=all_time&include_private=True&theme=dark)
