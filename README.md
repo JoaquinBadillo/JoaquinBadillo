@@ -1,11 +1,11 @@
 # Hello! I'm Joaquín Badillo 👨‍💻
 
-I am really passionate about technology, software, data and mathematics, and I am looking forward to become a full-time software engineer.
+I am really passionate about technology, software, data and mathematics.
 
 ## Here's a brief overview of myself... 
-- 🔭 I'm pursuing a B.S. in Computer Science and Technology at Tec de Monterrey.
-- 🌱 I’m currently learning about containers and orchestration
-- 🤔 I’m looking for Hackathonssss! (I love creating projects that can solve real problems)
+- 🔭 I have a B.S. in Computer Science and Technology degree from Tec de Monterrey.
+- 🌱 I’m currently a SWE in the Bay Area.
+- 🤔 I love music, would like to invest some time to learn an instrument and some theory.
 - 😄 Pronouns: He/Him
 
 ## Tech
